@@ -1,0 +1,26 @@
+*{
+  box-sizing: border-box;
+}
+
+html{
+  font-size: 50px;
+}
+body{
+  text-align: center;
+  background-color: pink;
+  color: white;
+  font-family: 'Bellota', cursive;
+}
+h1{
+
+}
+#activity{
+  height:100px;
+  width:30%;
+  border-radius: 40%;
+  border:5px solid #80008073;
+  color: white;
+  font-size:20px;
+  background-color: #8bf1f8a1;
+  text-align: center;
+}
